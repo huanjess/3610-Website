@@ -2,6 +2,7 @@
 title: "3610 Website"
 ---
 
-This is a Quarto website.
+## Problem Set 2 Gridplot
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](Gridplot%20copy.jpg)
+
